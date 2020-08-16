@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Antic Slab', serif;
+  margin: 2em;
+}
+
+h1 {
+  color: #373fff;
+  font-family: 'Antic Slab', serif;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
